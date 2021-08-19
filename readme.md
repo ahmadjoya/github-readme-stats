@@ -434,7 +434,7 @@ However, if you are using this project and are happy with it or just want to enc
 
 Thanks! :heart:
 
----
+----
 
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
